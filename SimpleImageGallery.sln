@@ -5,7 +5,9 @@ VisualStudioVersion = 15.0.27703.2042
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleImageGallery", "SimpleImageGallery\SimpleImageGallery.csproj", "{89AB4C6A-389D-499F-AD9B-EC6ACACCF028}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleImageGallery.Data", "SimpleImageGallery.Data\SimpleImageGallery.Data.csproj", "{B6A6F5FD-14F6-4390-A147-91E2828F2AA6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SimpleImageGallery.Data", "SimpleImageGallery.Data\SimpleImageGallery.Data.csproj", "{B6A6F5FD-14F6-4390-A147-91E2828F2AA6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleImageGallery.Services", "SimpleImageGallery.Services\SimpleImageGallery.Services.csproj", "{62F101BE-B892-4172-9667-8795421C7339}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{B6A6F5FD-14F6-4390-A147-91E2828F2AA6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B6A6F5FD-14F6-4390-A147-91E2828F2AA6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B6A6F5FD-14F6-4390-A147-91E2828F2AA6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62F101BE-B892-4172-9667-8795421C7339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62F101BE-B892-4172-9667-8795421C7339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62F101BE-B892-4172-9667-8795421C7339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62F101BE-B892-4172-9667-8795421C7339}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
